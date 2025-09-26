@@ -1,139 +1,88 @@
-# Technical Theatre: 
+# Module 01: Introduction to Technical Theatre
 
-## From Basics to Backstage Excellence
+## 🎯 Learning Objectives
+By the end of this lesson, students will be able to:
+- Describe the scope and purpose of technical theatre across different performance types.
+- Identify core backstage roles and their responsibilities.
+- Compare the technical demands of plays, concerts, dance recitals, and musicals.
+- Explain how collaboration and safety practices enable a successful production.
 
-## **Module 1: Introduction to Technical Theatre (Week 1\)**
+---
 
-### **Definition and Significance of Technical Theatre**
+## 📖 Key Concepts
+- **Technical Theatre** — The backstage disciplines that realize a production (lighting, sound, sets, props, costumes, stage management, projections).
+- **Production Roles** — Stage Manager, Lighting/Sound Designer & Operator, Set/Costume Designer, Projection Designer, Technical Director, Backstage/Fly Crew.
+- **Performance Types** — Play, Musical, Concert, Dance Recital; each has distinct technical needs.
+- **Collaboration & Safety** — Communication, cueing, run sheets, checklists, PPE, rigging and electrical safety.
 
-Technical theatre encompasses all the behind-the-scenes work that makes a production possible. This includes lighting, sound, set design, props, costumes, and stage management. Whether it’s a play, concert, dance recital, or presentation, technical theatre ensures the performance is engaging, professional, and impactful. The work of technical theatre professionals brings the artistic vision of directors, choreographers, and musicians to life by enhancing the audience’s experience.
+---
 
-For example:
+## 📝 Lesson Content
 
-* **Plays** rely on carefully designed lighting and sound to create atmosphere and emotion.  
-* **Concerts** require intricate sound systems and lighting rigs to match the energy of live music.  
-* **Dance recitals** depend on precise lighting to highlight movement and costumes.  
-* **Presentations** often need clear sound amplification and visual aids like projectors or screens.
+### 1) What is Technical Theatre and Why It Matters
+Technical theatre encompasses the behind-the-scenes work that turns artistic vision into an effective audience experience—whether the event is a play, concert, dance recital, ceremony, or presentation. Lighting shapes focus and mood, sound provides clarity and impact, and stagecraft creates the physical world in which the story unfolds.
 
-  ### **Key Roles in Technical Theatre**
+**Examples**
+- **Plays:** Subtle lighting and targeted sound effects support intimate storytelling.
+- **Concerts:** High-energy lighting and robust sound reinforcement match musical dynamics.
+- **Dance recitals:** Color, angle, and timing of light emphasize movement and costume detail.
+- **Presentations:** Clear amplification and projection ensure accessibility and engagement.
 
-Each technical theatre role is vital to the success of a production. Some key positions include:
+### 2) Core Roles & Responsibilities (Backstage Ecosystem)
+- **Stage Manager:** Coordinates the production; maintains prompt book; calls cues to synchronize lights, sound, and stage actions.
+- **Lighting Designer / Operator:** Designs looks, plots and focuses fixtures, programs and executes cues on the console.
+- **Sound Designer / Operator:** Designs the soundscape (music, effects, mics), manages gain structure, mixes for clarity and impact.
+- **Set Designer / Carpentry:** Designs and builds scenery aligned to concept, ensures safe/feasible construction.
+- **Costume Designer / Wardrobe:** Designs/sources costumes, manages fittings and quick changes.
+- **Projection/Media Designer:** Prepares visual media (slides/video) and operates playback systems.
+- **Technical Director (TD):** Oversees technical feasibility, safety, scheduling, and crew leadership.
+- **Backstage Crew / Deck / Props:** Executes scene shifts, manages props and traffic backstage.
+- **Fly Crew (where applicable):** Operates rigging/fly systems with strict safety and timing.
 
-#### **1\. Stage Manager**
+### 3) Technical Needs by Performance Type
+| Performance Type | Lighting Needs            | Sound Needs                 | Set/Scenery         | Backstage Crew Size |
+|------------------|---------------------------|-----------------------------|---------------------|---------------------|
+| Musical          | Dynamic, cue-dense looks  | Multiple wireless mics, band/orchestra mix | Often elaborate      | Large               |
+| Play             | Subtle shifts, focus      | Spot effects, intelligibility | Minimal to moderate | Moderate            |
+| Concert          | Time-coded or busked, high energy | Live reinforcement, feedback control | Minimal              | Moderate            |
+| Dance Recital    | Color, side-light, timing | Clean music playback        | Minimal             | Small               |
 
-* Coordinates all aspects of the production, ensuring everything runs smoothly.  
-* Communicates with the director, technical crew, and performers.  
-* Calls cues during performances to synchronize lights, sound, and stage actions.
+**Notes**
+- **Musicals:** Primary challenge is balancing many open mics with music while hitting precise lighting cues.
+- **Concerts:** Priority is live audio quality and busked or time-coded lighting in sync with tempo.
+- **Plays:** Detail and subtlety—eye lines, quiet scene changes, naturalistic effects.
+- **Dance:** Visibility of movement; side light and wash quality are critical.
 
-  #### **2\. Lighting Designer/Operator**
+### 4) Collaboration & Safety Foundations
+- **Collaboration:** Clear chain of communication; rehearsal reports; cue sheets; consistent terminology.
+- **Safety:** PPE where required; cable management; weight/load checks; electrical and rigging procedures; never bypass interlocks; “stop” authority for unsafe conditions.
 
-* Designs lighting plans to enhance mood, focus, and visibility.  
-* Operates the lighting console during performances, executing lighting cues.
+---
 
-  #### **3\. Sound Designer/Operator**
+## 🎬 Activity / Exercise
 
-* Plans the soundscape, including music, sound effects, and microphones.  
-* Operates the soundboard, balancing audio levels for clarity and impact.
+### A. Compare Two Event Types (Small Groups)
+**Task:** Choose a *play* and a *concert* (or *dance recital*). Draft a one-page tech plan outlining:
+- Top 3 lighting requirements and why.
+- Top 3 sound requirements and why.
+- Set/backstage implications (scene shifts, crew size).
+**Deliverable:** Present your plan; defend one trade-off decision (e.g., mic allocation vs. feedback risk).
 
-  #### **4\. Set Designer**
+### B. Role Map for a School Play (Whole Class)
+**Task:** List required technical roles, assign responsibilities, and identify handoffs (e.g., SM ↔ LX Op for cueing).
+**Deliverable:** A simple “tech org chart” with 8–12 roles and one sentence per responsibility.
 
-* Creates the physical environment where the performance takes place.  
-* Builds or oversees the construction of sets that match the production’s vision.
+---
 
-  #### **5\. Costume Designer**
+## ✅ Summary
+- Technical theatre is the operational backbone of performance, translating creative ideas into reliable, safe, repeatable results.
+- Roles are interdependent; communication and well-timed cues make the show.
+- Different event types drive different technical priorities—plan accordingly.
+- Safety is a culture and a checklist; both matter every time.
 
-* Designs and sources costumes that reflect the characters and themes of the production.  
-* Coordinates with performers to ensure proper fit and functionality.
+---
 
-  #### **6\. Projection Designer (for multimedia presentations)**
-
-* Develops and integrates visual media such as videos, slides, or animations.  
-* Operates projectors or media servers during performances.
-
-  #### **7\. Backstage Crew**
-
-* Handles set changes, props, and costume management during performances.  
-* Ensures transitions are seamless and timely.
-
-  #### **8\. Technical Director**
-
-* Oversees all technical aspects of the production.  
-* Manages the technical team and ensures designs are feasible and safe.
-
-  #### **9\. Fly Crew (for productions using fly systems)**
-
-* Operates rigging systems to move scenery, lights, or curtains.  
-* Ensures precise timing and safety during transitions.
-
-  #### **10\. Choreographer (for dance and musicals)**
-
-* Works closely with technical staff to integrate lighting and stage movement.
-
-  ### **Differences in Technical Demands Across Performance Types**
-
-Each type of performance has unique technical requirements. Understanding these differences ensures proper planning and execution.
-
-#### **Musicals**
-
-* **Key Needs**: Wireless microphones, dynamic lighting, and elaborate set designs.  
-* **Challenges**: Balancing live singing with orchestra or recorded tracks.
-
-  #### **Plays**
-
-* **Key Needs**: Subtle lighting changes, realistic sound effects, and minimal set adjustments.  
-* **Challenges**: Ensuring intimate scenes are supported by lighting and sound.
-
-  #### **Concerts**
-
-* **Key Needs**: High-quality sound systems, vibrant lighting, and pyrotechnics (for larger events).  
-* **Challenges**: Managing live audio levels and matching lighting to music tempo.
-
-  #### **Dance Recitals**
-
-* **Key Needs**: Bright and colorful lighting, clear audio playback, and simple sets.  
-* **Challenges**: Syncing lighting with choreography and maintaining visual focus.
-
-  ### **Roles in Different Performance Types**
-
-  #### **Examples of Technical Team Hierarchy:**
-
-* **Director**: Oversees the artistic vision.  
-* **Stage Manager**: Coordinates the production.  
-* **Designers (Lighting, Sound, Set, Costume, Projection)**: Create technical elements.  
-* **Operators and Crew**: Execute designs during the show.
-
-  #### **Diagram: Technical Team Hierarchy**
-
-A visual diagram can show the relationships between roles, from director to crew.
-
-#### **Chart: Comparison of Technical Needs**
-
-| Performance Type | Lighting Needs | Sound Needs | Set Design | Backstage Crew |
-| ----- | ----- | ----- | ----- | ----- |
-| Musical | Dynamic | Balanced live sound | Elaborate | Large |
-| Play | Subtle | Realistic sound cues | Minimalistic | Moderate |
-| Concert | Vibrant | High-quality playback | Simple or none | Moderate |
-| Dance Recital | Colorful | Clear music playback | Minimalistic | Small |
-
-### **Learning Activities**
-
-#### **Group Discussion: Analyze the technical requirements of a play vs. a live concert**
-
-* **Objective**: Compare and contrast the technical demands of two performance types.  
-* **Guiding Questions**:  
-  * How does sound design differ between a play and a concert?  
-  * What lighting challenges are unique to each performance type?
-
-    #### **Task: Create a list of technical roles required for a school play**
-
-* **Objective**: Understand the different roles needed to produce a play.  
-* **Steps**:  
-  1. Brainstorm all necessary technical roles.  
-  2. Define the responsibilities of each role.  
-  3. Present the list and discuss its importance.
-
-     ### **Conclusion**
-
-Technical theatre is an essential part of any performance, regardless of type. By understanding the roles, demands, and teamwork required, students can appreciate the complexity and artistry behind the scenes. This knowledge not only enhances their participation in school productions but also builds skills like collaboration, problem-solving, and creative thinking.
-
-* 
+## 📚 References & Resources
+- Local venue or school theatre safety handbook (PPE, rigging, electrical).
+- Console user guides (ETC Eos/ColorSource, or venue-specific).
+- USITT / ESTA resources on best practices (rigging, electrics, audio).
