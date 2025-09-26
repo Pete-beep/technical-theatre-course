@@ -1,22 +1,29 @@
-# Technical Theatre Course (Skeleton)
+# 🎭 Technical Theatre Course
 
-This repository contains a structured, GitHub-friendly skeleton for building a scalable course.
+Welcome to the **Technical Theatre Course** repository.  
+This course provides a structured introduction to the key areas of technical theatre: lighting, sound, stagecraft, and stage management.
 
-## Structure
-- `modules/` — course lessons (one file per lesson), named with a two-digit prefix (e.g., `01-introduction.md`).
-- `templates/` — reusable templates (lesson template, rubrics, etc.).
-- `assets/images/` — lesson images.
-- `assets/slides/` — exported slides (PDF/PowerPoint).
-- `instructor-guide/` — teaching notes, timing, equipment checklists.
-- `docs/` — optional GitHub Pages site (`Settings → Pages → Branch: main, folder: /docs`).
+## 📚 Course Roadmap
+- [Course Outline](modules/00-course-outline.md)
+- [Modules Overview](modules/README.md)
 
-## Getting Started
-1. Copy `templates/lesson-template.md` to `modules/01-introduction.md` and start drafting.
-2. Keep formatting consistent using `style-guide.md`.
-3. Commit small, frequent changes with clear messages.
+## 🗂 Repository Structure
+- `modules/` — All course lessons and outline
+- `assets/` — Images, slides, and supporting media
+- `templates/` — Reusable lesson templates
+- `instructor-guide/` — Teaching notes and resources
+- `docs/` — Optional GitHub Pages site
 
-## Conventions
-- File names: `NN-topic.md` (NN = two-digit order).
-- Images: `assets/images/NN-topic-shortname-01.png` (use hyphens, lowercase).
-- Use relative links: `![alt text](../assets/images/NN-example.png)`
+## 🚀 Getting Started
+1. Review the [Course Outline](modules/00-course-outline.md).
+2. Explore individual modules in [`modules/`](modules/README.md).
+3. Follow the [Style Guide](style-guide.md) for consistency when adding new content.
 
+## 🤝 Contributing
+Contributions are welcome! Please:
+- Use the lesson template in `templates/lesson-template.md`.
+- Follow the conventions in `style-guide.md`.
+- Submit changes via Pull Requests.
+
+## 📄 License
+(Add your chosen license here, e.g., MIT, Creative Commons, etc.)
