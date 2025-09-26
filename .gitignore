@@ -1,0 +1,16 @@
+# OS junk
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.code-workspace
+
+# Node / tooling (if you add build tools later)
+node_modules/
+dist/
+
+# Archives
+*.zip

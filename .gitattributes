@@ -1,0 +1,9 @@
+* text=auto
+
+# Line endings (normalize)
+*.sh eol=lf
+*.md text=auto
+*.yml text=auto
+*.yaml text=auto
+*.ps1 eol=crlf
+*.bat eol=crlf
