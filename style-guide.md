@@ -1,170 +1,112 @@
-# Course Style Guide (Updated v2)
+# Course Style Guide v3
 
-**Goal:** Keep the entire course consistent in structure, tone, and formatting.
-
----
-
-## 1) File & Naming Conventions
-- Lessons: `modules/NN-short-title.md` (e.g., `02-stage-management.md`)
-- Images: `assets/images/NN-short-title-##.png`
-- Slides: `assets/slides/NN-short-title.pdf`
-- Use lowercase, hyphen-separated filenames.
+This style guide defines the structure, tone, and conventions for all modules in the *Technical Theatre Course*. It updates v2 with refinements from recent module development.
 
 ---
 
-## 2) Module & Lesson Structure
-Each module may contain multiple **lessons**. Follow this order:
+## 🎯 Module Structure
 
-1. `# Module {Number}: {Title}`  
-2. `## 🎯 Learning Objectives`  
-3. `## 📖 Key Concepts`  
-4. `## 📝 Lesson Content`  
-   - `### Lesson X: Title`  
-     - **Content** — main teaching points  
-     - **Examples** — diagrams, charts, case studies, templates  
-     - **Notes** — clarifications, edge cases, additional context  
-5. `## 🎬 Activities / Exercises`  
-6. `## ✅ Summary`  
-7. `## 📚 References & Resources`  
-8. `## 🧩 Assessment (Optional)`  
+Each module should follow this order:
 
----
+1. **🎯 Learning Objectives** — 4–6 outcomes written as *students will be able to…*
+2. **📖 Key Concepts** — 4–6 high-level ideas.
+3. **📖 Key Terms (Quick Reference)** — short definitions of new or recurring jargon.
+4. **📝 Lesson Content** — divided into numbered lessons (Lesson 1, 2, etc.), each with:
 
-## 3) Learning Objectives
-- Always start with: “By the end of this module, students will be able to:”  
-- Present as checklist items (`- [ ]`).  
-- Use measurable action verbs: describe, identify, compare, explain, apply.  
-- Keep 2–5 objectives per module, covering all lessons.  
+   * **Content**: core explanations.
+   * **Examples**: concrete illustrations, diagrams, or scenarios.
+   * **Notes**: reminders, cautions, or professional practice insights.
+   * **Optional Checklists**: step-by-step procedures where useful.
+5. **🎬 Activities / Exercises** — hands-on tasks. Each must include:
 
-Example:
-```markdown
-## 🎯 Learning Objectives
-By the end of this module, students will be able to:
-- [ ] Identify core backstage roles
-- [ ] Apply safety protocols for performance spaces
-```
+   * **Task**: what the student must do.
+   * **Deliverable**: what to submit.
+   * **Rubric**: grading criteria with weighted categories.
+6. **✅ Summary** — 4–6 bullet takeaways.
+7. **📚 References & Resources** — templates, guides, and recommended reading.
 
 ---
 
-## 4) Key Concepts
-- Present key terms in **bold** with concise definitions.  
-- Use bullet list format.  
-- Aim for 3–6 items per module.  
+## 📖 Key Terms
 
-Example:
-```markdown
-- **Stage Manager** — the central communication hub, responsible for cueing.
-- **Lighting Designer** — creates lighting looks and programs cues.
-```
+* Include a **Key Terms (Quick Reference)** section in any module where new vocabulary is introduced.
+* Keep definitions **short, clear, and student-friendly**.
+* Terms should also exist in the central **Glossary (Module 00)**, but the quick reference ensures immediate clarity.
 
 ---
 
-## 5) Lesson Content
-- Use `### Lesson X: Title` for each lesson.  
-- Subsections inside lessons:
-  - **Content** (what is taught)  
-  - **Examples** (supporting material)  
-  - **Notes** (clarifications, extra context)  
-- Use tables when comparing roles, tools, or performance types.  
-- Code blocks (```) for console commands, scripts, or pseudo-code.  
+## 📋 Checklists & Protocols
 
-Example:
-```markdown
-### Lesson 3: The Role of the Stage Manager
-**Content:** Core duties in musicals, plays, and concerts.  
-**Examples:** Prompt book template, rehearsal report.  
-**Notes:** Stage managers adapt communication style by performance type.
-```
+* Modules may include **checklists** inside lessons (e.g., Room Open Checklist, Absence/Delay Protocol).
+* Use concise, actionable steps; 5–7 bullets is ideal.
+* Format: **Checklist name** in bold, bullets below.
 
 ---
 
-## 6) Activities & Exercises
-- Place activities after all lessons in the module.  
-- Use headers like `### Activity A (Lesson 1): Title`.  
-- Always include **Task** and **Deliverable**.  
+## 📝 Activities & Rubrics
 
-Example:
-```markdown
-### Activity A (Lesson 1): Compare Event Types
-**Task:** Draft a one-page tech plan.  
-**Deliverable:** Present and defend one trade-off decision.
-```
+* All activities must state:
+
+  * **Task**
+  * **Deliverable**
+  * **Rubric** (accuracy, clarity, professionalism, etc.)
+* Rubrics should total 100 points; use 3–5 categories with weights.
+* This ensures transparent assessment and consistent expectations.
 
 ---
 
-## 7) Summary
-- Use 3–5 bullet points.  
-- Each bullet is a “key truth” from the module.  
-- Do not leave placeholders.  
+## 🔗 Cross-Links to Appendix
 
-Example:
-```markdown
-## ✅ Summary
-- Technical theatre is the operational backbone of live performance.
-- Safety is a culture and a checklist; both matter every time.
-```
+* Modules should **reference the Appendix** for detailed forms, templates, or diagrams.
+* Use phrasing such as: *“See Appendix: Rehearsal Report Template.”*
+* Do not embed full documents inside modules.
 
 ---
 
-## 8) References & Resources
-- Always end with this section.  
-- Include:
-  - Local/venue resources (safety handbooks, equipment manuals)  
-  - Technical manuals (console guides, software docs)  
-  - Professional organizations (USITT, ESTA, etc.)  
-- Use Markdown links whenever possible.  
+## 📏 Naming Consistency
+
+* Use **Show Report** consistently across modules.
+* The Appendix may note alternate labels (e.g., “Performance Report”), but module text should be unified.
 
 ---
 
-## 9) Assessments (Optional)
-- Use for quizzes, projects, or reflective assignments.  
-- Format with clear questions and/or deliverables.  
+## ♿ Accessibility & Inclusion
 
-Example:
-```markdown
-## 🧩 Assessment
-- **Quiz Question 1:** What is the role of the Stage Manager?
-- **Assignment:** Create a cue sheet for a 3-scene play.
-```
+* All modules must flag **inclusion and accessibility considerations** where relevant:
+
+  * Quiet spaces in rehearsal rooms.
+  * Pronouns and access needs (privacy respected).
+  * Sensory warnings (strobe, haze, FX).
+  * ADA/accessible pathways in stage plots.
 
 ---
 
-## 10) Tables
-- Use tables to compare performance types, roles, tools, or equipment.  
-- Always include a header row.  
-- Add notes below tables for context.  
+## 🗂 Single Source of Truth (SSoT)
 
-Example:
-```markdown
-| Performance Type | Lighting Needs | Sound Needs |
-|------------------|----------------|-------------|
-| Musical          | Cue-dense looks| Wireless mics |
-```
+* Modules that involve paperwork must reinforce:
+
+  * **File naming conventions**.
+  * **Version control** practices.
+  * **Single source of truth (SSoT)**: if it isn’t in the prompt book or official folder, it isn’t official.
+* Encourage distribution cadences (e.g., daily rehearsal report by 10pm).
 
 ---
 
-## 11) Tone & Voice
-- Clear, direct, supportive.  
-- Use active voice.  
-- Inclusive and professional.  
+## 🎨 Tone & Style
+
+* Use a **professional but approachable tone**.
+* Favor **clear, direct sentences** over academic complexity.
+* Use **emoji headers** consistently for navigation and student engagement.
+* Keep modules between **6–12 pages** when expanded to PDF with examples.
 
 ---
 
-## 12) Versioning & Commits
-- Use small, frequent commits.  
-- Commit messages should follow this pattern:  
-  - `[module 02] add Lesson 3 draft`  
-  - `[module 02] refine Lesson 4 activities`  
+## ✅ Summary of v3 Changes
 
----
-
-## ✅ Quick Checklist
-- [ ] File name matches `NN-title.md` convention  
-- [ ] Objectives are measurable and use checklists  
-- [ ] Key concepts in bold with definitions  
-- [ ] Lessons use `### Lesson X: Title` with Content / Examples / Notes  
-- [ ] Activities labeled with Task & Deliverable  
-- [ ] Summary has 3–5 truths  
-- [ ] References included  
-- [ ] Tables used where comparisons are needed  
-- [ ] Assessment added if appropriate  
+1. Added **Key Terms (Quick Reference)** requirement.
+2. Formalized **checklists** as part of lesson content.
+3. Required **rubrics** for activities.
+4. Clarified **cross-linking to Appendix** instead of embedding.
+5. Standardized on **Show Report** terminology.
+6. Mandated **accessibility & inclusion** considerations.
+7. Reinforced **SSoT/versioning practices**.
