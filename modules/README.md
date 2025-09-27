@@ -8,6 +8,7 @@
 - [Module 06 — Backstage Operations](06-backstage-operations.md)
 - [Module 07 — The Role of the Producer](07-producer-role.md)
 - [Module 08 — Capstone: Mock Production](08-capstone-mock-production.md)
+- [Glossary](00-glossary.md)
 
 ---
 
@@ -56,3 +57,6 @@
 - Lesson 29: Planning the Technical Setup for a Multi-Performance Event
 - Lesson 30: Technical Rehearsals
 - Lesson 31: Final Presentation
+- 
+**Glossary**
+
