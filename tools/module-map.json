@@ -1,0 +1,9 @@
+{
+  "01-introduction.md": "01-introduction.md",
+  "02-lighting-basics.md": "03-lighting-design.md",
+  "03-sound-basics.md": "05-sound-design-and-operation.md",
+  "04-stagecraft.md": "06-backstage-operations.md",
+  "05-stage-management.md": "02-stage-management.md",
+  "06-production-integration.md": "04-lighting-operation.md",
+  "07-final-project.md": "08-capstone-mock-production.md"
+}
