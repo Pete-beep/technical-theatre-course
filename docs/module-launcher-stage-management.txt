@@ -1,0 +1,35 @@
+https://chatgpt.com/g/g-p-6764621f6c3881919d66f3a11605b3e6/c/68d69443-0db0-8331-bf27-2722910a31fd
+
+New Chat Starter: Technical Theatre Course (Stage Management Module)
+
+Hi, I’ve been working on a Technical Theatre Course with you in another chat. Here’s the context we already established:
+
+Repo is set up with skeleton folders (modules/, assets/, templates/, etc.).
+
+We have an updated Style Guide v2 (style-guide.md) that defines:
+
+### Lesson X: Title format inside modules.
+
+Content / Examples / Notes sections per lesson.
+
+Activities with Task and Deliverable.
+
+Summary with 3–5 key truths.
+
+We also have a quick reference checklist (style-checklist.md).
+
+Module 01 (Introduction to Technical Theatre) is complete as a Hybrid Merge (Overview + Safety lessons).
+
+The course outline is in 00-course-outline.md.
+
+👉 Now I’d like to build out Module 02: Stage Management (lessons 3–6 in the outline):
+
+Lesson 3: The Role of the Stage Manager in Different Performance Types
+
+Lesson 4: Pre-Production Tasks
+
+Lesson 5: Managing Rehearsals
+
+Lesson 6: Show Calls and Performance Management
+
+Please generate a 02-stage-management.md that follows the style guide and matches this outline.
