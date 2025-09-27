@@ -24,6 +24,10 @@ Contributions are welcome! Please:
 - Use the lesson template in `templates/lesson-template.md`.
 - Follow the conventions in `style-guide.md`.
 - Submit changes via Pull Requests.
-
+- 
+## ✍️ Writing New Modules
+- Use the [Style Guide](style-guide.md) for detailed rules.
+- Keep the [Quick Reference Checklist](style-checklist.md) open while editing for consistency.
+- 
 ## 📄 License
 (Add your chosen license here, e.g., MIT, Creative Commons, etc.)
