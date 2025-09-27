@@ -1,4 +1,4 @@
-# Module 03: Sound Basics
+# Module 05: sound-design-and-operation
 
 ## 🎯 Learning Objectives
 - [ ] To be defined

@@ -1,4 +1,4 @@
-# Module 06: Production Integration
+# Module 04:lighting-operation
 
 ## 🎯 Learning Objectives
 - [ ] To be defined

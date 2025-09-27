@@ -1,61 +1,55 @@
-# Course Style Guide (Updated)
+# Course Style Guide (Updated v2)
 
 **Goal:** Keep the entire course consistent in structure, tone, and formatting.
 
 ---
 
 ## 1) File & Naming Conventions
-- Lessons: `modules/NN-short-title.md` (e.g., `02-lighting-basics.md`)
+- Lessons: `modules/NN-short-title.md` (e.g., `02-stage-management.md`)
 - Images: `assets/images/NN-short-title-##.png`
 - Slides: `assets/slides/NN-short-title.pdf`
 - Use lowercase, hyphen-separated filenames.
 
 ---
 
-## 2) Markdown Structure
-Each lesson should include the following sections in this order, using consistent emojis:
+## 2) Module & Lesson Structure
+Each module may contain multiple **lessons**. Follow this order:
 
 1. `# Module {Number}: {Title}`  
 2. `## 🎯 Learning Objectives`  
 3. `## 📖 Key Concepts`  
 4. `## 📝 Lesson Content`  
-5. `## 🎬 Activity / Exercise`  
+   - `### Lesson X: Title`  
+     - **Content** — main teaching points  
+     - **Examples** — diagrams, charts, case studies, templates  
+     - **Notes** — clarifications, edge cases, additional context  
+5. `## 🎬 Activities / Exercises`  
 6. `## ✅ Summary`  
 7. `## 📚 References & Resources`  
 8. `## 🧩 Assessment (Optional)`  
 
-**Headings:**  
-- H1 `#` for module title  
-- H2 `##` for section headings  
-- H3 `###` for subsections (e.g., Activity A, Activity B)
-
-**Lists:**  
-- Use `-` for bullets  
-- Use `1.` for ordered lists  
-- Use checklists `- [ ]` in objectives
-
 ---
 
 ## 3) Learning Objectives
-- Always start with “By the end of this lesson, students will be able to:”  
-- Present as checklist items (`- [ ]`)  
+- Always start with: “By the end of this module, students will be able to:”  
+- Present as checklist items (`- [ ]`).  
 - Use measurable action verbs: describe, identify, compare, explain, apply.  
-- Keep 2–5 objectives per lesson.
+- Keep 2–5 objectives per module, covering all lessons.  
 
 Example:
 ```markdown
 ## 🎯 Learning Objectives
-By the end of this lesson, students will be able to:
-- [ ] Describe the scope and purpose of technical theatre
+By the end of this module, students will be able to:
 - [ ] Identify core backstage roles
+- [ ] Apply safety protocols for performance spaces
 ```
 
 ---
 
 ## 4) Key Concepts
-- Present key terms in **bold** followed by a concise definition or explanation.  
+- Present key terms in **bold** with concise definitions.  
 - Use bullet list format.  
-- Aim for 3–6 items per lesson.
+- Aim for 3–6 items per module.  
 
 Example:
 ```markdown
@@ -66,65 +60,65 @@ Example:
 ---
 
 ## 5) Lesson Content
-Structure lesson content into logical subsections:
+- Use `### Lesson X: Title` for each lesson.  
+- Subsections inside lessons:
+  - **Content** (what is taught)  
+  - **Examples** (supporting material)  
+  - **Notes** (clarifications, extra context)  
+- Use tables when comparing roles, tools, or performance types.  
+- Code blocks (```) for console commands, scripts, or pseudo-code.  
 
-- **1) Introduction / Context** — why this topic matters.  
-- **2) Main Content / Breakdowns** — core details, step-by-step explanations.  
-- **3) Examples / Demonstrations** — applied or real-world examples.  
-
-Tips:  
-- Use tables to compare across performance types.  
-- Use code blocks (```) for console commands, scripts, or pseudo-code.
+Example:
+```markdown
+### Lesson 3: The Role of the Stage Manager
+**Content:** Core duties in musicals, plays, and concerts.  
+**Examples:** Prompt book template, rehearsal report.  
+**Notes:** Stage managers adapt communication style by performance type.
+```
 
 ---
 
 ## 6) Activities & Exercises
-- Each activity should have its own subsection: `### A. Activity Name`, `### B. Activity Name`.  
-- Always include **Task** and **Deliverable** labels.
+- Place activities after all lessons in the module.  
+- Use headers like `### Activity A (Lesson 1): Title`.  
+- Always include **Task** and **Deliverable**.  
 
 Example:
 ```markdown
-### A. Compare Two Event Types
+### Activity A (Lesson 1): Compare Event Types
 **Task:** Draft a one-page tech plan.  
-**Deliverable:** Present and defend one trade-off.
+**Deliverable:** Present and defend one trade-off decision.
 ```
 
 ---
 
 ## 7) Summary
 - Use 3–5 bullet points.  
-- Each bullet is a “key truth” from the lesson.  
-- Do not leave placeholders.
+- Each bullet is a “key truth” from the module.  
+- Do not leave placeholders.  
 
 Example:
 ```markdown
 ## ✅ Summary
-- Technical theatre provides the backbone for live performance.
-- Roles are interdependent and require clear communication.
-- Safety and consistency ensure reliable results.
+- Technical theatre is the operational backbone of live performance.
+- Safety is a culture and a checklist; both matter every time.
 ```
 
 ---
 
 ## 8) References & Resources
-- Always include relevant references at the end.  
-- Use Markdown links where possible.  
-- Include a mix of:
-  - Local resources (venue manuals, safety guides)
-  - Technical manuals (console guides)
-  - Professional organizations (USITT, ESTA)
-
-Example:
-```markdown
-- [ETC Eos Family Console Manual](https://www.etcconnect.com/)
-- USITT Rigging Safety Guidelines
-```
+- Always end with this section.  
+- Include:
+  - Local/venue resources (safety handbooks, equipment manuals)  
+  - Technical manuals (console guides, software docs)  
+  - Professional organizations (USITT, ESTA, etc.)  
+- Use Markdown links whenever possible.  
 
 ---
 
 ## 9) Assessments (Optional)
-- Use for quizzes, projects, or reflective exercises.  
-- Format with clear questions or assignment prompts.
+- Use for quizzes, projects, or reflective assignments.  
+- Format with clear questions and/or deliverables.  
 
 Example:
 ```markdown
@@ -135,26 +129,42 @@ Example:
 
 ---
 
-## 10) Tone & Voice
+## 10) Tables
+- Use tables to compare performance types, roles, tools, or equipment.  
+- Always include a header row.  
+- Add notes below tables for context.  
+
+Example:
+```markdown
+| Performance Type | Lighting Needs | Sound Needs |
+|------------------|----------------|-------------|
+| Musical          | Cue-dense looks| Wireless mics |
+```
+
+---
+
+## 11) Tone & Voice
 - Clear, direct, supportive.  
-- Use active voice where possible.  
+- Use active voice.  
 - Inclusive and professional.  
 
 ---
 
-## 11) Versioning & Commits
+## 12) Versioning & Commits
 - Use small, frequent commits.  
-- Commit messages should follow the pattern: `[module NN] short description`.  
-- Keep changes focused; open Issues for larger changes.
+- Commit messages should follow this pattern:  
+  - `[module 02] add Lesson 3 draft`  
+  - `[module 02] refine Lesson 4 activities`  
 
 ---
 
 ## ✅ Quick Checklist
 - [ ] File name matches `NN-title.md` convention  
-- [ ] Learning objectives use checklist format and action verbs  
+- [ ] Objectives are measurable and use checklists  
 - [ ] Key concepts in bold with definitions  
-- [ ] Lesson content split into Intro, Main Content, Examples  
-- [ ] Activities labeled with Task/Deliverable  
-- [ ] Summary has 3–5 “truths”  
+- [ ] Lessons use `### Lesson X: Title` with Content / Examples / Notes  
+- [ ] Activities labeled with Task & Deliverable  
+- [ ] Summary has 3–5 truths  
 - [ ] References included  
-- [ ] Optional Assessment section considered  
+- [ ] Tables used where comparisons are needed  
+- [ ] Assessment added if appropriate  

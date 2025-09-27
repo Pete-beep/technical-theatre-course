@@ -1,4 +1,4 @@
-# Module 04: Stagecraft
+# Module 06: backstage-operations
 
 ## 🎯 Learning Objectives
 - [ ] To be defined
