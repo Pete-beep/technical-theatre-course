@@ -23,6 +23,18 @@ By the end of this module, students will be able to:
 
 ---
 
+## 📖 Key Terms (Quick Reference)
+
+* **Cue:** Instruction to trigger a technical/performance action.
+* **Standby:** Warning that a cue is imminent.
+* **Go:** The command to execute the cue.
+* **Blocking:** Recorded actor movement and positions.
+* **Preset:** Placement of props, costumes, or set pieces before a scene begins.
+* **Run Sheet:** Step-by-step tasks per crew role.
+* **Show Report:** Post-show summary including times, incidents, and departmental notes.
+
+---
+
 ## 📝 Lesson Content
 
 ### Lesson 3: The Role of the Stage Manager in Different Performance Types
@@ -70,12 +82,14 @@ By the end of this module, students will be able to:
 * **Props tracker** (Item, Source, Status, Notes, Preset, Page).
 * **Stage Plot** diagram with labels for entrances, exits, set pieces, and technical positions.
 * **Version control**: file naming (`Show_Script_v03_2025-10-14.docx`).
+* **Risk Register Matrix**: hazard, likelihood, mitigation, owner.
 
 **Notes:**
 
-* Lock a **single source of truth** (cloud folder naming + update etiquette).
+* Lock a **single source of truth** (cloud folder naming + update etiquette). If it isn’t in the prompt book or SSoT, it isn’t official.
 * Publish **distribution cadence** (e.g., daily rehearsal report by 10pm).
 * Ensure the **Stage Plot** is updated as designs evolve; distribute revisions to all departments.
+* Use discretion with personal data (pronouns/access needs) to respect privacy.
 
 ---
 
@@ -104,6 +118,12 @@ By the end of this module, students will be able to:
 * Capture **objective + outcome** for each block; timebox notes to avoid spillover.
 * Keep **RF logs** and battery rotations once mics enter rehearsal.
 
+**Checklists:**
+
+* **Room Open Checklist:** spikes, sign-in, water, batteries, first-aid, quiet zones.
+* **Daily Plan:** call time, warm-up, goals, work blocks, breaks, wrap-up.
+* **Absence/Delay Protocol:** notification steps, escalation path, safety considerations.
+
 ---
 
 ### Lesson 6: Show Calls and Performance Management
@@ -113,7 +133,7 @@ By the end of this module, students will be able to:
 * **Calling philosophy:** anticipate, **standby stacks**, clear diction, consistent syntax.
 * **Cue sheet** anatomy: cue number, page/measure, trigger, action, confirmation, contingencies.
 * **Headset discipline:** brevity, departments (LX, SD, Deck, FOH, Rail, Spots, Flys), priority for safety.
-* **Pre-show:** safety check, presets, coms check, house status, conductor sync, FOH coordination, last looks.
+* **Pre-show:** safety check, presets, comms check, house status, conductor sync, FOH coordination, last looks.
 * **During show:** calling LX/SD/PROJ/FX/fly/spot; monitoring deck traffic; maintaining show report.
 * **Post-show:** incident log, reset notes, maintenance tickets, next-day calls, late notes.
 * **Emergency procedures:** show stop language, medical, fire, evac—who communicates what and when.
@@ -123,11 +143,13 @@ By the end of this module, students will be able to:
 * **Standby stack** snippet: “Standby Lights 34–36, Sound K–M, Fly 2, Deck shift A.”
 * **Call syntax** snippet: “Lights 35… go. Sound K… go. Fly 2… go.”
 * **Show report** fields: House in/out, run time, notes per dept, incidents, late calls, audience notes.
+* **Show Stop Procedure:** “Attention: we are holding. Please remain seated. We will resume shortly.” Resume: “We are resuming from Page 42 at LX 35 on my ‘Go.’”
 
 **Notes:**
 
 * Rehearse **show stops** and re-starts like any other cue sequence.
 * Keep **redundant copies** of cue sheets, stage plots, and emergency procedures at SM desk and deck.
+* Headset protocol: comms check at top, priority order (safety > timing > notes), clear channel labeling.
 
 ---
 
@@ -136,18 +158,22 @@ By the end of this module, students will be able to:
 1. **Build the Pre-Pro Pack**
    **Task:** Using the provided template set, create a contact sheet, production calendar (3 weeks), rehearsal schedule, and stage plot for a hypothetical musical with 18 performers and 6 crew. Include one risk item and a mitigation.
    **Deliverable:** A single PDF bundle (<= 8 pages) named `PreProPack_LastName.pdf`.
+   **Rubric:** accuracy (40), clarity (30), versioning/SSoT (20), professionalism (10).
 
 2. **Rehearsal Report Drill**
    **Task:** Watch a 5-minute rehearsal clip (or use the instructor’s scenario sheet). Record blocking for 2 pages, generate line notes for at least 3 actors, and write a same-day rehearsal report.
    **Deliverable:** `RehearsalReport_LastName.pdf` with attached blocking page and line notes.
+   **Rubric:** accuracy (40), clarity (30), use of dept tags (20), timeliness (10).
 
 3. **Cue-Calling Lab**
    **Task:** With a sample script page and cue list (LX, SD, PROJ), prepare a standby stack and call 60–90 seconds of the sequence at 1× speed, then at 1.25×.
    **Deliverable:** 1-page cue sheet (`CueSheet_LastName.pdf`) + a 60–90s audio/video of your call.
+   **Rubric:** clarity (40), accuracy (30), consistency of syntax (20), professionalism (10).
 
 4. **Show Stop Protocol**
    **Task:** Draft a one-page emergency show-stop procedure for your venue, including chain of command and sample language.
    **Deliverable:** `ShowStop_SOP_LastName.pdf`.
+   **Rubric:** completeness (40), clarity (30), practicality (20), professionalism (10).
 
 ---
 

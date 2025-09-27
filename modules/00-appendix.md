@@ -6,10 +6,13 @@ This appendix collects practical tools, templates, and references that support m
 
 ## 📑 Paperwork Samples
 
-* **Stage Plot (Band Setup Example):** [assets/samples/stage-plot-example.pdf]
+* **Stage Plot (Band Setup Example, Living Document):** [assets/samples/stage-plot-example.pdf]
 * **Company Contact Sheet Template:** [assets/samples/company-contact-sheet.pdf]
 * **Daily Schedule (Callboard) Template:** [assets/samples/daily-schedule-template.pdf]
-* **Performance Report Template (Post-Show):** [assets/samples/performance-report-template.pdf]
+* **Rehearsal Report Template:** [assets/samples/rehearsal-report-template.pdf]  <!-- TODO: add asset -->
+* **Performance / Show Report Template (Post-Show):** [assets/samples/performance-report-template.pdf]
+* **Run Sheet Template (Crew Tasks):** [assets/samples/run-sheet-template.pdf]  <!-- TODO: add asset -->
+* **Prompt Book Sample Page (Blocking + Cues):** [assets/samples/prompt-book-sample.pdf]  <!-- TODO: add asset -->
 * **French Scene Breakdown Sheet:** [assets/samples/french-scene-breakdown.pdf]
 * **Props List & Tracking Template:** [assets/samples/props-tracking-template.pdf]
 * **Line Notes Form:** [assets/samples/line-notes-form.pdf]
@@ -19,6 +22,7 @@ This appendix collects practical tools, templates, and references that support m
 * **Scene Shift Plot Template:** [assets/samples/scene-shift-plot-template.pdf]
 * **Safety Checklist (Backstage Protocol):** [assets/samples/safety-checklist.pdf]
 * **Risk Assessment Template:** [assets/samples/risk-assessment-template.pdf]
+* **Risk Register Matrix (Hazard/Mitigation/Owner):** [assets/samples/risk-register-matrix.pdf]  <!-- TODO: add asset -->
 * **Tech Org Chart (School Play Example):** [assets/samples/tech-org-chart.pdf]
 
 ---
@@ -26,12 +30,16 @@ This appendix collects practical tools, templates, and references that support m
 ## ✅ Checklists
 
 * **Pre-Show / House Open Checklist (SM/FOH handoff):** [assets/checklists/preshow-house-open-checklist.pdf]
+* **Room Open Checklist (Spikes, Sign-In, Batteries):** [assets/checklists/room-open-checklist.pdf]  <!-- TODO: add asset -->
+* **Daily Plan Checklist (Call/Goals/Blocks/Wrap-Up):** [assets/checklists/daily-plan-checklist.pdf]  <!-- TODO: add asset -->
+* **Absence/Delay Protocol Checklist:** [assets/checklists/absence-delay-checklist.pdf]  <!-- TODO: add asset -->
 * **Quick-Change Checklist:** [assets/checklists/quick-change-checklist.pdf]
 * **Props Preset Checklist:** [assets/checklists/props-preset-checklist.pdf]
 * **Mic Check & Battery Rotation Checklist:** [assets/checklists/mic-check-battery-checklist.pdf]
 * **Emergency Action (Show Stop) Checklist:** [assets/checklists/emergency-action-checklist.pdf]
 * **Lighting & Sound Pre-Use Checklist:** [assets/checklists/lx-sound-preuse.pdf]
 * **Backstage Daily Safety Walkthrough:** [assets/checklists/backstage-safety-walkthrough.pdf]
+* **Post-Show Reset Checklist:** [assets/checklists/postshow-reset-checklist.pdf]  <!-- TODO: add asset -->
 
 ---
 
@@ -43,6 +51,8 @@ This appendix collects practical tools, templates, and references that support m
 * **Venue Safety Handbook (Sample Outline):** [assets/guides/venue-safety-outline.pdf]
 * **PPE & Equipment Safety Guidelines:** [assets/guides/ppe-equipment-guidelines.pdf]
 * **Electrical Safety Basics (Student Edition):** [assets/guides/electrical-safety-basics.pdf]
+* **Documentation & File Naming Standards:** [assets/guides/file-naming-standards.pdf]  <!-- TODO: add asset -->
+* **Inclusion & Accessibility Guidelines:** [assets/guides/inclusion-accessibility.pdf]  <!-- TODO: add asset -->
 
 ---
 
@@ -56,4 +66,8 @@ This appendix collects practical tools, templates, and references that support m
 * **Quick-Reference: Standby/Go Phrasebook:** [assets/guides/standby-go-phrasebook.pdf]
 * **Role Responsibilities Quick-Reference:** [assets/guides/role-map-quickref.pdf]
 * **Technical Demands by Event Type (Musical/Play/Concert/Dance):** [assets/guides/event-type-tech-demands.pdf]
-* **Intro to Cue Calling & Run Sheets:** [assets/guides/intro-cue-calling.pdf]
+* **Intro to Cue Calling:** [assets/guides/intro-cue-calling.pdf]
+* **Run Sheet Basics:** [assets/guides/run-sheet-basics.pdf]  <!-- TODO: add asset -->
+* **Sample Risk Register Matrix:** [assets/guides/sample-risk-register.pdf]  <!-- TODO: add asset -->
+* **Prompt Book Setup Guide:** [assets/guides/prompt-book-setup.pdf]  <!-- TODO: add asset -->
+* **SM Desk Setup Diagram:** [assets/guides/sm-desk-setup.pdf]  <!-- TODO: add asset -->
