@@ -1,0 +1,13 @@
+Channel,Dimmer,Address,Fixture,Location,Purpose
+1,1,1.001,19° Leko,FOH 1L,DSC Warm Front
+2,2,1.002,19° Leko,FOH 1R,DSC Cool Front
+3,3,1.003,19° Leko,FOH 2L,DSL Warm Front
+4,4,1.004,19° Leko,FOH 2R,DSL Cool Front
+5,5,1.005,19° Leko,FOH 3L,DSR Warm Front
+6,6,1.006,19° Leko,FOH 3R,DSR Cool Front
+7,7,1.007,Fresnel,Boom SR,Back Wash SR
+8,8,1.008,Fresnel,Boom SL,Back Wash SL
+9,9,1.009,Par LED,Cyc Top 1,Cyc Blue
+10,10,1.010,Par LED,Cyc Top 2,Cyc Red
+11,11,1.011,19° Leko,FOH 4L,Special – Lectern
+12,12,1.012,19° Leko,FOH 4R,Special – Table
