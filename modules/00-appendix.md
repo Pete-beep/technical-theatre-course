@@ -24,6 +24,13 @@ This appendix collects practical tools, templates, and references that support m
 * **Risk Assessment Template:** [assets/samples/risk-assessment-template.pdf]
 * **Risk Register Matrix (Hazard/Mitigation/Owner):** [assets/samples/risk-register-matrix.pdf]  <!-- TODO: add asset -->
 * **Tech Org Chart (School Play Example):** [assets/samples/tech-org-chart.pdf]
+* **Lighting Plot (Sample):** [assets/samples/lighting-plot-sample.pdf]  <!-- TODO: add asset -->
+* **Channel Hookup (Sample):** [assets/samples/channel-hookup-sample.csv]  <!-- TODO: add asset -->
+* **Instrument Schedule:** [assets/samples/instrument-schedule.pdf]  <!-- TODO: add asset -->
+* **Patch Sheet (LX Rig):** [assets/samples/patch-sheet.pdf]  <!-- TODO: add asset -->
+* **Focus Chart Template:** [assets/samples/focus-chart-template.pdf]  <!-- TODO: add asset -->
+* **Cue List Template (LX/SM):** [assets/samples/cue-list-template.pdf]  <!-- TODO: add asset -->
+* **Busking Page Layout (Annotated Example):** [assets/samples/busking-page-layout.pdf]  <!-- TODO: add asset -->
 
 ---
 
@@ -39,7 +46,8 @@ This appendix collects practical tools, templates, and references that support m
 * **Emergency Action (Show Stop) Checklist:** [assets/checklists/emergency-action-checklist.pdf]
 * **Lighting & Sound Pre-Use Checklist:** [assets/checklists/lx-sound-preuse.pdf]
 * **Backstage Daily Safety Walkthrough:** [assets/checklists/backstage-safety-walkthrough.pdf]
-* **Post-Show Reset Checklist:** [assets/checklists/postshow-reset-checklist.pdf]  <!-- TODO: add asset -->
+* **Post-Show Reset Checklist (LX/SM):** [assets/checklists/postshow-reset-checklist.pdf]  <!-- TODO: add asset -->
+* **Daily LX Checklist (Power/Focus/Reset):** [assets/checklists/daily-lx-checklist.pdf]  <!-- TODO: add asset -->
 
 ---
 
@@ -71,3 +79,4 @@ This appendix collects practical tools, templates, and references that support m
 * **Sample Risk Register Matrix:** [assets/guides/sample-risk-register.pdf]  <!-- TODO: add asset -->
 * **Prompt Book Setup Guide:** [assets/guides/prompt-book-setup.pdf]  <!-- TODO: add asset -->
 * **SM Desk Setup Diagram:** [assets/guides/sm-desk-setup.pdf]  <!-- TODO: add asset -->
+* **Troubleshooting Flowchart (LX):** [assets/guides/lx-troubleshooting-flowchart.pdf]  <!-- TODO: add asset -->

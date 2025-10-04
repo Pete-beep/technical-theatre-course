@@ -78,8 +78,97 @@ This glossary provides quick definitions of key terms used throughout the course
 
 ---
 
+### Lighting Design
+
+* **Lighting Plot:** Scaled drawing showing fixture placement, purpose, and circuiting.
+* **Channel Hookup:** Spreadsheet/list organized by channel number with fixture details (position, type, wattage, purpose).
+* **Patch:** The mapping of console channels to dimmers or fixture addresses.
+* **Focus Session:** A work session where lighting fixtures are physically adjusted (pan, tilt, shutter, etc.) to achieve the design.
+* **Gobo:** A patterned template inserted in a light to project shapes or textures.
+* **Diffusion:** A material used to soften or spread a beam of light.
+* **Color Temperature (CCT):** Measurement of light’s warmth/coolness in Kelvin.
+* **CRI/TM-30:** Metrics describing color rendering accuracy of a light source.
+* **McCandless Method:** A common lighting approach using 45° front angles with warm and cool pairs to balance visibility and modeling.
+* **Instrument Schedule:** A master list of all lighting fixtures, usually organized by position.
+
+### Lighting Operation
+
+* **DMX512:** Standard protocol carrying up to 512 channels of control per universe.
+* **Universe:** A set of 512 DMX channels.
+* **sACN (Streaming ACN):** A protocol for sending multiple universes of DMX data over Ethernet.
+* **Art-Net:** Another Ethernet-based protocol for transmitting DMX data.
+* **Address:** The DMX channel number at which a fixture starts responding.
+* **Profile / Personality:** The software definition in a console for a fixture’s control channels.
+* **Mode:** The operational setting of a fixture (e.g., 8-bit vs. 16-bit, extended vs. basic).
+* **Group:** A saved selection of channels/fixtures used for programming efficiency.
+* **Palette:** A saved setting (Focus, Color, Beam) that can be applied across cues.
+* **Tracking:** Console behavior where values persist into subsequent cues until changed.
+* **Block Cue:** A cue that explicitly stores all active values to “stop” tracking.
+* **Mark Cue:** A cue that pre-positions moving lights before they appear.
+* **Assert:** A command forcing control values to re-take priority in playback.
+* **Grand Master:** A console fader that controls overall output level.
+* **Submaster / Inhibitive Submaster:** Faders controlling groups of channels, with “inhibitive” used to reduce maximum output.
+* **Executor:** A playback handle (fader/button) used for busking or live operation.
+* **Tap Tempo:** Console function that sets effect speed based on tapping rhythm.
+* **Show Stop:** Emergency halt of performance, called by SM or operator for safety.
+* **Home / Highlight:** Console tools for resetting fixtures (Home) or stepping through channels (Highlight).
+
+---
+## 🎭 Theatre & Production
+
+* **Blocking** — Planned movement of actors on stage.
+* **Cue** — A signal for action or technical event.
+* **Run Sheet** — A document outlining the sequence of cues and events in a show.
+
+## 💡 Lighting
+
+* **Gobo** — Metal or glass pattern placed in front of a light source to project shapes.
+* **DMX** — Digital protocol for controlling lighting fixtures.
+
+## 🎚️ Sound (New Terms Added)
+
+* **Gain Structure** — The distribution of gain across devices in the audio path to achieve clarity and headroom without distortion.
+* **Unity Gain** — A fader position (usually marked “0”) where the output equals the input level, preserving the signal without boosting or cutting.
+* **HPF (High‑Pass Filter)** — An EQ filter that allows high frequencies to pass while cutting low frequencies.
+* **LPF (Low‑Pass Filter)** — An EQ filter that allows low frequencies to pass while cutting highs.
+* **Parametric EQ** — An equalizer with adjustable frequency, bandwidth (Q), and gain.
+* **Graphic EQ** — An equalizer with fixed frequency bands adjusted with sliders.
+* **DI (Direct Injection) Box** — A device that converts unbalanced/instrument signals to balanced mic level; comes in active or passive types.
+* **Impedance** — The resistance of an electrical circuit to alternating current, important in matching devices.
+* **Polarity vs Phase** — Polarity is signal inversion (0°/180°), phase relates to timing between signals.
+* **Pad** — A switch that reduces input level to prevent overload.
+* **Phantom Power** — +48V supplied to condenser microphones or active DIs through XLR cables.
+* **Aux Send (Pre/Post)** — A console output that sends part of a channel’s signal to monitors/effects, either before or after the fader.
+* **Bus/Subgroup** — A mix pathway that combines signals; can be used for processing or level control.
+* **VCA/DCA** — Voltage/Digital Controlled Amplifier; a group fader that controls channel levels without altering their balance.
+* **Wedge Monitor** — A floor speaker angled at performers for monitoring.
+* **IEM (In‑Ear Monitor)** — Personal monitoring via earpieces.
+* **Intermodulation** — Undesired frequencies created when multiple RF signals interact.
+* **Diversity Reception** — Wireless mic technique using two antennas to reduce dropouts.
+* **IFB (Interruptible Foldback)** — Comms system for backstage/crew or broadcast monitoring.
+* **Pink Noise** — Test signal with equal energy per octave, used for tuning systems.
+* **SPL (Sound Pressure Level)** — Measurement of sound loudness in decibels (dB).
+
+---
+
+## 🔗 Cross‑Module Links
+
+* **Module 05: Sound Design & Operation** — introduced these new sound terms.
+* **Module 00: Appendix** — contains templates (input list, RF tracking, cue sheet, run sheet).
+
+---
+
 ## ✅ How to Use
 
 * **Look up unfamiliar terms** when they appear in modules.
 * **Practice using the vocabulary** in your rehearsal reports, paperwork, and cue sheets.
 * **Expect instructors** to use this vocabulary consistently in class and exercises.
+
+
+### Backstage Operations
+
+* **Blackout Curtain:** A heavy curtain used to block light and visibility from backstage to the audience.
+* **Running Lights:** Low-level blue lights used backstage so crew can see without spilling light onstage.
+* **Glow Tape:** Phosphorescent tape marking spike points, edges, or hazards for visibility in darkness.
+* **Quick Change Booth:** A screened area backstage set up for rapid costume changes.
+* **Backstage Callboard:** Central information hub with schedules, notices, and sign-in sheets.
