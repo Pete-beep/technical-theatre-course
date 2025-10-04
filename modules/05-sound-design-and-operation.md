@@ -37,58 +37,66 @@ By the end of this module, students will be able to:
 
 ---
 
+
+
+## 📖 Key Terms (Quick Reference)
+* **Signal Flow**: TODO definition.
+* **Gain Structure**: TODO definition.
+* **Monitor Mix**: TODO definition.
+* **RF Coordination**: TODO definition.
+* **EQ**: TODO definition.
 ## 📝 Lesson Content
 
-### 1) System Overview & Signal Flow
+### Lesson 15: 1) System Overview & Signal Flow
 
 * Walk the physical chain and draw a block diagram for your venue.
 * Identify balanced vs unbalanced, mic vs line level, and connector types (XLR, TRS, TS, Speakon, EtherCon).
 * Lab: Trace one microphone from stage to speaker, label each device, and verify with a pink‑noise test.
 
-### 2) Gain Structure & Console Fundamentals
+### Lesson 16: 2) Gain Structure & Console Fundamentals
 
 * Preamp trim method: **PFL → speak/sing at show level → target healthy average, no red**.
 * Faders at/near **0 dB (unity)** for most channels; mix on faders, not trims.
 * Channel strip order: **HPF → EQ → Dynamics → Insert FX → Fader** (varies by console).
 * Metering: Input, bus, and output—watch for any stage of overload.
 
-### 3) Microphones, DIs & Source Technique
+### Lesson 17: 3) Microphones, DIs & Source Technique
 
 * Mic selection by source (dialogue, vocals, guitar cab, strings, percussion).
 * Polar pattern & placement to maximize wanted signal and minimize bleed.
 * DI use cases (keys, acoustic guitar, playback), pad & ground‑lift.
 
-### 4) Mixing Music & Speech for Clarity
+### Lesson 18: 4) Mixing Music & Speech for Clarity
 
 * **Speech first**: HPF 80–120 Hz; remove low‑mid mud (200–400 Hz); de‑ess if needed.
 * **Music beds**: carve space with EQ; mind masking; ride vocals on VCA/DCA.
 * Use **sends** for reverb/delay; keep returns controlled; mute on transitions.
 
-### 5) Monitors & Feedback Control
+### Lesson 19: 5) Monitors & Feedback Control
 
 * Pre‑fader aux for wedges/IEMs; build mixes from the stage performers’ needs.
 * **Ring‑out**: slowly raise aux master, identify offending frequencies, notch with narrow EQ.
 * Stagecraft: mic angles, wedge placement, and keeping mics behind PA coverage.
 
-### 6) Wireless Microphones (RF)
+### Lesson 20: 6) Wireless Microphones (RF)
 
 * Site survey & scan; choose open spectrum; coordinate channels to avoid intermod.
 * Antenna placement: elevated, clear line‑of‑sight, correct polarization; use distro and low‑loss coax as needed.
 * Battery policy: fresh for each show; secure packs & cables; label and track.
 
-### 7) Playback & Show Control
+### Lesson 21: 7) Playback & Show Control
 
 * Build a cue list (pre‑show → walk‑in → scene ambiences → transitions → curtain call).
 * Redundancy: two playback devices on separate channels; standby/mute discipline.
 * File prep: consistent levels, head/tail trims, and naming.
 
-### 8) Paperwork & Prep
+### Lesson 22: 8) Paperwork & Prep
 
 * Create **Input List**, **Patch Sheet**, **Stage Plot**, **RF Chart**, and **Run Sheet**.
 * Console layout: channel order, color coding, DCAs/VCAs, mute groups.
 * Pre‑show checklist and line‑check procedure.
 
-### 9) Troubleshooting Flow (Fast)
+### Lesson 23: 9) Troubleshooting Flow (Fast)
 
 1. **No signal?** Check source → cable → input → PFL meter → routing → mute groups → bus.
 2. **Feedback?** Identify mic/bus, pull master 3 dB, notch frequency, reposition mic/wedge.
@@ -100,34 +108,85 @@ By the end of this module, students will be able to:
 ## 🎬 Activities / Labs
 
 * **Lab A — Signal Path Hunt:** Teams trace and label a live mic path; submit a block diagram.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 * **Lab B — Gain & EQ Workshop:** Set trims, apply HPF/EQ for 3 sources (speech, acoustic guitar, keys). Record before/after.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 * **Lab C — Monitor Mix Build:** Create two wedge mixes and one IEM mix; demonstrate ring‑out technique.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 * **Lab D — RF Mini‑Coord:** Run a scan, pick 4 clean frequencies, document antenna plan, and label packs.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 * **Lab E — Cue Design:** Build a 10‑cue scene (ambience, stings, transitions) with a cue list and timing notes.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ---
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ## 🧰 Templates & Checklists
 
 Use these alongside the Appendix resources.
 
 **Pre‑Show Checklist (Ops):**
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 * Power‑up sequence: amps last on/first off, verify console show file loaded
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 * Line check all inputs (talk‑test); verify monitors/IEMs
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 * Playback devices armed; backups routed and muted
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 * RF battery levels, antenna distro power, packs labeled
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 * SPL meter set; hearing protection available
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 **Input List (sample columns):**
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 * Ch, Source, Mic/DI, Insert, HPF, EQ notes, Comp/Gate, Bus sends, Monitor sends
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 **RF Tracking Sheet (sample columns):**
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 * Pack ID, Actor, Scene, Frequency, Spare, Battery In/Out time, Notes
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ---
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ## ✅ Summary
 

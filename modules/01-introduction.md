@@ -19,13 +19,21 @@ By the end of this module, students will be able to:
 
 ---
 
+
+
+## 📖 Key Terms (Quick Reference)
+* **Technical Theatre**: TODO definition.
+* **Collaboration**: TODO definition.
+* **Safety Protocols**: TODO definition.
+* **Production Roles**: TODO definition.
+* **Performance Types**: TODO definition.
 ## 📝 Lesson Content
 
 ### Lesson 1: Overview of Technical Theatre Across Performance Types
 
 Technical theatre encompasses the behind-the-scenes work that turns artistic vision into an effective audience experience—whether the event is a play, concert, dance recital, ceremony, or presentation. Lighting shapes focus and mood, sound provides clarity and impact, and stagecraft creates the physical world in which the story unfolds.
 
-#### Roles & Responsibilities (Backstage Ecosystem)
+### Lesson 2:  Roles & Responsibilities (Backstage Ecosystem)
 - **Stage Manager:** Coordinates the production; maintains prompt book; calls cues to synchronize lights, sound, and stage actions.
 - **Lighting Designer / Operator:** Designs looks, plots and focuses fixtures, programs and executes cues on the console.
 - **Sound Designer / Operator:** Designs the soundscape (music, effects, mics), manages gain structure, mixes for clarity and impact.
@@ -36,7 +44,7 @@ Technical theatre encompasses the behind-the-scenes work that turns artistic vis
 - **Backstage Crew / Deck / Props:** Executes scene shifts, manages props and traffic backstage.
 - **Fly Crew (where applicable):** Operates rigging/fly systems with strict safety and timing.
 
-#### Technical Needs by Performance Type
+### Lesson 3:  Technical Needs by Performance Type
 | Performance Type | Lighting Needs            | Sound Needs                 | Set/Scenery         | Backstage Crew Size |
 |------------------|---------------------------|-----------------------------|---------------------|---------------------|
 | Musical          | Dynamic, cue-dense looks  | Multiple wireless mics, band/orchestra mix | Often elaborate      | Large               |
@@ -52,16 +60,16 @@ Technical theatre encompasses the behind-the-scenes work that turns artistic vis
 
 ---
 
-### Lesson 2: Safety in the Theatre and Performance Spaces
+### Lesson 4: Safety in the Theatre and Performance Spaces
 
 Safe practice is essential in every aspect of technical theatre. Safety protects the crew, the performers, and the audience, and ensures that creative work is not undermined by accidents.
 
-#### Content
+### Lesson 5:  Content
 - Safety protocols for handling lighting, sound, and stage equipment.
 - Emergency procedures and risk assessments for performance spaces.
 - Proper use of safety gear: gloves, goggles, harnesses, and fire extinguishers.
 
-#### Examples
+### Lesson 6:  Examples
 - **Safety Checklist:** A backstage safety protocol document.
 - **Risk Assessment Template:** A template for identifying potential hazards.
 
@@ -71,24 +79,60 @@ Safe practice is essential in every aspect of technical theatre. Safety protects
 
 ### Activity A (Lesson 1): Compare Two Event Types (Small Groups)
 **Task:** Choose a *play* and a *concert* (or *dance recital*). Draft a one-page tech plan outlining:
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - Top 3 lighting requirements and why.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - Top 3 sound requirements and why.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - Set/backstage implications (scene shifts, crew size).
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 **Deliverable:** Present your plan; defend one trade-off decision (e.g., mic allocation vs. feedback risk).
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ### Activity B (Lesson 1): Role Map for a School Play (Whole Class)
 **Task:** List required technical roles, assign responsibilities, and identify handoffs (e.g., SM ↔ LX Op for cueing).
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 **Deliverable:** A simple “tech org chart” with 8–12 roles and one sentence per responsibility.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ### Activity C (Lesson 2): Identify Safety Risks in a Stage Setup
 **Task:** Review a mock stage setup (diagram or description). Identify at least 5 potential risks (trip hazards, electrical overload, rigging issues).
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 **Deliverable:** Group list of identified risks and mitigation strategies.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ### Activity D (Lesson 2): Complete a Sample Risk Assessment
 **Task:** Use a risk assessment template to evaluate a small theatre performance space.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 **Deliverable:** Completed risk assessment form highlighting hazards, risk levels, and mitigation measures.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ---
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ## ✅ Summary
 - Technical theatre is the operational backbone of performance, translating creative ideas into reliable, safe, repeatable results.

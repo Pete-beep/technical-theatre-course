@@ -156,26 +156,77 @@ By the end of this module, students will be able to:
 ## 🎬 Activities / Exercises
 
 1. **Build the Pre-Pro Pack**
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
    **Task:** Using the provided template set, create a contact sheet, production calendar (3 weeks), rehearsal schedule, and stage plot for a hypothetical musical with 18 performers and 6 crew. Include one risk item and a mitigation.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
    **Deliverable:** A single PDF bundle (<= 8 pages) named `PreProPack_LastName.pdf`.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
    **Rubric:** accuracy (40), clarity (30), versioning/SSoT (20), professionalism (10).
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 2. **Rehearsal Report Drill**
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
    **Task:** Watch a 5-minute rehearsal clip (or use the instructor’s scenario sheet). Record blocking for 2 pages, generate line notes for at least 3 actors, and write a same-day rehearsal report.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
    **Deliverable:** `RehearsalReport_LastName.pdf` with attached blocking page and line notes.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
    **Rubric:** accuracy (40), clarity (30), use of dept tags (20), timeliness (10).
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 3. **Cue-Calling Lab**
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
    **Task:** With a sample script page and cue list (LX, SD, PROJ), prepare a standby stack and call 60–90 seconds of the sequence at 1× speed, then at 1.25×.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
    **Deliverable:** 1-page cue sheet (`CueSheet_LastName.pdf`) + a 60–90s audio/video of your call.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
    **Rubric:** clarity (40), accuracy (30), consistency of syntax (20), professionalism (10).
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 4. **Show Stop Protocol**
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
    **Task:** Draft a one-page emergency show-stop procedure for your venue, including chain of command and sample language.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
    **Deliverable:** `ShowStop_SOP_LastName.pdf`.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
    **Rubric:** completeness (40), clarity (30), practicality (20), professionalism (10).
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ---
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ## ✅ Summary
 

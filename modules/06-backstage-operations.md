@@ -1,4 +1,4 @@
-# Backstage Operations
+# Module 06: Backstage Operations
 
 ## 🎯 Learning Objectives
 By the end of this module, students will be able to:
@@ -23,12 +23,20 @@ By the end of this module, students will be able to:
 
 ---
 
+
+
+## 📖 Key Terms (Quick Reference)
+* **Backstage Etiquette**: TODO definition.
+* **Run Sheet**: TODO definition.
+* **Quick Change**: TODO definition.
+* **Comms Protocol**: TODO definition.
+* **Show Stop**: TODO definition.
 ## 📝 Lesson Content
 
-### 1. The Role of Backstage Operations
+### Lesson 20: 1. The Role of Backstage Operations
 Backstage operations are the invisible engine of a live performance. While the audience never sees this work, every scene change, prop hand-off, and quick change depends on precise timing and coordination. Crew professionalism backstage directly impacts the pacing, safety, and success of the show.
 
-### 2. Backstage Crew Roles
+### Lesson 21: 2. Backstage Crew Roles
 - **Deck Crew** — Moves scenery, presets props, tracks actor entrances, and maintains order.  
 - **Fly Crew** — Handles counterweight systems, curtains, drops, and flown scenery.  
 - **Props Crew** — Sets, maintains, and tracks all handheld or scenic props.  
@@ -37,14 +45,14 @@ Backstage operations are the invisible engine of a live performance. While the a
 
 Each role is part of a coordinated backstage ecosystem.
 
-### 3. Backstage Etiquette
+### Lesson 22: 3. Backstage Etiquette
 - **Silence is golden** — Unnecessary noise distracts performers and audience.  
 - **Stay in position** — Remain at your assigned post until cleared by the SM or ASM.  
 - **All black** — Crew should wear black clothing to remain unseen.  
 - **No phones or distractions** — Safety and focus come first.  
 - **Headset discipline** — Use clear, concise comms; follow protocol (“Standby… Go”).
 
-### 4. Paperwork & Tools
+### Lesson 23: 4. Paperwork & Tools
 Backstage work relies on well-designed paperwork:
 - **Run Sheets** — Crew-specific task lists (see Appendix: Run Sheet Template).  
 - **Props Preset Lists & Tracking Sheets** — Ensure every item is in the right place (Appendix: Props Templates).  
@@ -52,7 +60,7 @@ Backstage work relies on well-designed paperwork:
 - **Quick Change Checklists** — Step-by-step guide for successful rapid changes (Appendix: Quick Change Checklist).  
 - **Mic Plots** — For managing wireless microphones and RF hand-offs (Appendix: Mic Plot Template).  
 
-### 5. Traffic Flow & Safety
+### Lesson 24: 5. Traffic Flow & Safety
 Backstage is a high-traffic environment:
 - Plan and rehearse **backstage traffic flow** to prevent collisions (Appendix: Traffic Flow Diagram).  
 - Keep pathways clear of props, costumes, and personal items.  
@@ -60,7 +68,7 @@ Backstage is a high-traffic environment:
 - Regularly check spike marks, glow tape, and running lights.  
 - Use the **Backstage Safety Walkthrough** checklist before every show.  
 
-### 6. Emergencies & Show Stops
+### Lesson 25: 6. Emergencies & Show Stops
 - Follow the Stage Manager’s lead for all holds and stops.  
 - Know your **emergency action checklist** (fire, injury, technical failure).  
 - Never improvise in an emergency — stick to established protocols.  
@@ -70,12 +78,30 @@ Backstage is a high-traffic environment:
 
 ## 🎬 Activities / Exercises
 1. **Run Sheet Drill** — Create a run sheet for a short scripted scene, then trade with a peer and “walk it through.”  
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 2. **Props Preset Challenge** — Set and track a series of props using a preset checklist.  
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 3. **Scene Shift Rehearsal** — In small groups, choreograph a scene change with spike marks, timing, and crew calls.  
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 4. **Quick Change Drill** — Practice executing a timed costume change with limited resources.  
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 5. **Safety Walkthrough** — Conduct a backstage inspection using the daily safety checklist and report findings.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ---
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ## ✅ Summary
 Backstage operations demand precision, discipline, and teamwork. From props preset to quick changes, every crew member has a vital role in keeping the show safe, seamless, and professional. By practicing backstage etiquette, following paperwork, and rehearsing traffic flow, students learn how to deliver performances that feel effortless to the audience.
@@ -83,7 +109,7 @@ Backstage operations demand precision, discipline, and teamwork. From props pres
 ---
 
 ## 📚 References & Resources
-### Internal (Course Appendix)
+### Lesson 26: Internal (Course Appendix)
 - [Run Sheet Template](/modules/00-appendix.md)  
 - [Props Tracking Template](/modules/00-appendix.md)  
 - [Scene Shift Plot Template](/modules/00-appendix.md)  
@@ -92,7 +118,7 @@ Backstage operations demand precision, discipline, and teamwork. From props pres
 - [Backstage Safety Walkthrough](/modules/00-appendix.md)  
 - [Backstage Traffic Flow Diagram](/modules/00-appendix.md)  
 
-### External
+### Lesson 27: External
 - **USITT (United States Institute for Theatre Technology):** Safety and backstage standards.  
 - **ABTT (Association of British Theatre Technicians):** Guidance on backstage safety and protocols.  
 - **Ontario Ministry of Labour (Theatre Safety Guides):** Relevant for Canadian contexts.  

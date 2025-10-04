@@ -1,4 +1,4 @@
-# Lighting Design
+# Module 03: Lighting Design
 
 ## 🎯 Learning Objectives
 By the end of this module, students will be able to:
@@ -28,9 +28,17 @@ By the end of this module, students will be able to:
 
 ---
 
+
+
+## 📖 Key Terms (Quick Reference)
+* **Lighting Plot**: TODO definition.
+* **Channel Hookup**: TODO definition.
+* **Patch**: TODO definition.
+* **Focus Session**: TODO definition.
+* **Cue List**: TODO definition.
 ## 📝 Lesson Content
 
-### 1) Light & Story (45–60 min)
+### Lesson 7: 1) Light & Story (45–60 min)
 - Watch short scene; discuss what the light communicates.
 - Demonstrate how angle and color alter perception (front vs. back; cool vs. warm).
 - Quick activity: “Find the Focus”—students adjust two systems to guide audience attention.
@@ -39,7 +47,7 @@ By the end of this module, students will be able to:
 
 ---
 
-### 2) Instruments & Optics (60–75 min)
+### Lesson 8: 2) Instruments & Optics (60–75 min)
 - Hands-on tour: Par, Fresnel, Ellipsoidal; LED vs. tungsten; moving heads.
 - Photometrics in practice: choosing lens tubes (19°/26°/36°) for throw; beam calculator cheats.
 - Accessories: barn doors, top hats, iris, gobo holder, diffusion/ND; safety cables and C-clamps.
@@ -48,7 +56,7 @@ By the end of this module, students will be able to:
 
 ---
 
-### 3) Power, Data & Patch (60–75 min)
+### Lesson 9: 3) Power, Data & Patch (60–75 min)
 - Power: circuits, dimmers vs. non-dim; distro etiquette; balancing loads.
 - Data: DMX addressing, personalities, RDM; networked control (sACN) and universe planning.
 - Patching on console: addressing vs. channeling; groups, palettes/presets.
@@ -57,7 +65,7 @@ By the end of this module, students will be able to:
 
 ---
 
-### 4) Plotting & Paperwork (60–90 min)
+### Lesson 10: 4) Plotting & Paperwork (60–90 min)
 - Reading a plot: title block, legend, unit numbers, purpose, focus area.
 - Creating a mini-plot for a scene (provided ground plan). Keep to 12–18 units.
 - Generate **channel hookup**, **instrument schedule**, and **patch sheet**.
@@ -66,7 +74,7 @@ By the end of this module, students will be able to:
 
 ---
 
-### 5) Focus Session & Notation (60–90 min)
+### Lesson 11: 5) Focus Session & Notation (60–90 min)
 - Focus procedure: SM/board op calls; “Tilt… Pan… Sharpen… Soften… Shutter in on SR portal…”
 - Record **focus charts** and purpose notes (why each unit exists).
 - Safety emphasis: ladder foot, three points of contact, tool lanyards, clear floor calls.
@@ -75,7 +83,7 @@ By the end of this module, students will be able to:
 
 ---
 
-### 6) Programming Cues (90 min)
+### Lesson 12: 6) Programming Cues (90 min)
 - Building states: groups, intensity/focus/color palettes; using **Cue Only** vs **Track**.
 - Timings: split up/down, follows, blockade cues, cue parts for multi-system transitions.
 - Musical moment: time a 30–45s transition to music beats; discuss rhythm and breath.
@@ -84,7 +92,7 @@ By the end of this module, students will be able to:
 
 ---
 
-### 7) Tech & Notes (45–60 min)
+### Lesson 13: 7) Tech & Notes (45–60 min)
 - Paper tech etiquette; dry tech order; data backup routine.
 - SM integration: how to request holds, how to offer alternatives.
 - Notes workflow: “keep/adjust/rebuild” categories; photo references for looks.
@@ -95,43 +103,115 @@ By the end of this module, students will be able to:
 
 ## 🎬 Activities / Exercises
 - **Angle Lab:** In pairs, create three distinct looks using only angle changes; present before/after photos.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - **Color Storyboard:** Choose a scene; pick a 5-color palette (with CCT justification) and explain choices.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - **Focus Drill:** 5-minute timed focus of a special to a small prop; peers use the focus chart to verify.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - **Rhythm Exercise:** Align two transitions to the same musical excerpt, one “breath in,” one “breath out.”
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - **Safety Walk:** Daily pre-use inspection using the Appendix checklist; report one improvement item.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ---
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ## 🧪 Assessment & Rubrics
 - **Practical (40%):** Hang/patch/focus competency; console programming demo.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - **Paperwork (30%):** Mini-plot, hookup, patch sheet, focus charts; clarity & adherence to standards.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - **Design Rationale (20%):** Short write-up linking angle/color/texture to story beats.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - **Professional Practice (10%):** Safety behavior, collaboration, and notes responsiveness.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 Rubric highlights:
 - Clarity of focus (what should the audience see?)
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - Consistency of systems and color logic
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - Safe, tidy, and repeatable practice (cable paths, labeling, backups)
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ---
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ## 🛡️ Safety
 - **Electrical:** Never repurpose damaged cables; check connectors; lock-out/tag-out where applicable.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - **Rigging:** Always use safety cables; verify clamp and secondary retention; never stand under a load.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - **Access Equipment:** Ladder footing, three points of contact, MEWP certification where required.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - **Housekeeping:** Taped cables, no trip hazards, designated tool zones, dark-safe habits (headlamp red mode).
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 > Refer to Appendix: **PPE & Equipment Safety Guidelines**, **Backstage Daily Safety Walkthrough**, and **Electrical Safety Basics**.
 
 ---
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ## 📎 Paperwork & Templates (See Appendix)
 - **Lighting Plot** (PDF) and **Channel Hookup** (CSV/Sheet).
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - **Focus Charts** (per unit) and **Cue List**.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - **Pre-Use Checklist** and **Post-Show Reset**.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - **File Naming Standards** for all submissions.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ---
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ## ✅ Summary
 Lighting design shapes attention, mood, and rhythm. With a basic rig, thoughtful angles, and intentional color, students can craft clear, repeatable cues that serve story and safety. Mastery comes from clean paperwork, reliable patching, and responsive tech-note cycles.

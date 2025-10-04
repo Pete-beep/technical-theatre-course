@@ -1,4 +1,4 @@
-# Lighting Operation
+# Module 04: Lighting Operation
 
 **Prerequisites:** Familiarity with performance structures from Modules 1–3.
 
@@ -22,7 +22,7 @@ By the end of this module, students will be able to:
 
 ## Lesson 11 — Setting Up & Programming the Console
 
-### Safety, Power‑Up & Line‑Check (15–20 min)
+### Lesson 11: Safety, Power‑Up & Line‑Check (15–20 min)
 
 **Goal:** Bring the rig online safely and confirm signal path.
 
@@ -42,7 +42,7 @@ By the end of this module, students will be able to:
 
 ---
 
-### Addressing, Modes & Network Setup (25–30 min)
+### Lesson 12: Addressing, Modes & Network Setup (25–30 min)
 
 **Goal:** Understand how addressing and modes map to control.
 
@@ -61,7 +61,7 @@ By the end of this module, students will be able to:
 
 ---
 
-### Console Patching & Output Test (20–25 min)
+### Lesson 13: Console Patching & Output Test (20–25 min)
 
 **Goal:** Patch fixtures with correct profiles and prove control.
 
@@ -90,7 +90,7 @@ By the end of this module, students will be able to:
 
 ## Lesson 12 — Cue Programming & Execution
 
-### Building Looks with Groups & Palettes (30–35 min)
+### Lesson 14: Building Looks with Groups & Palettes (30–35 min)
 
 **Goal:** Program efficiently using re‑usable building blocks.
 
@@ -104,7 +104,7 @@ By the end of this module, students will be able to:
 
 ---
 
-### Cueing & Tracking Fundamentals (40–50 min)
+### Lesson 15: Cueing & Tracking Fundamentals (40–50 min)
 
 **Goal:** Record a clean cue stack with musical timing.
 
@@ -136,7 +136,7 @@ By the end of this module, students will be able to:
 
 ## Lesson 13 — Busking Live Shows
 
-### Submasters, Executors & Busking (25–35 min)
+### Lesson 16: Submasters, Executors & Busking (25–35 min)
 
 **Goal:** Build a flexible live‑playback page.
 
@@ -155,7 +155,7 @@ By the end of this module, students will be able to:
 
 ## Lesson 14 — Post‑Show Maintenance
 
-### Post‑Show Operations & Logs (20–25 min)
+### Lesson 17: Post‑Show Operations & Logs (20–25 min)
 
 **Goal:** Establish consistent wrap‑up procedures.
 
@@ -171,7 +171,7 @@ By the end of this module, students will be able to:
 
 ## Lesson 15 — Troubleshooting Playbook
 
-### Faults & Fixes (15–25 min)
+### Lesson 18: Faults & Fixes (15–25 min)
 
 **Goal:** Resolve common faults quickly.
 
@@ -190,14 +190,32 @@ By the end of this module, students will be able to:
 ## 🎬 Activities / Exercises
 
 1. **Patch Lab (L11):** Given a rig list, complete a patch sheet and implement it on console; verify via highlight walk‑through.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 2. **Palette Sprint (L12):** Build Focus/Color/Beam palettes for 6 areas; time‑trial to reinforce labeling discipline.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 3. **Cue Stack Mini‑Scene (L12):** Program 12–20 cues, including a Mark, an Auto‑follow, and a Safety Cue. Run it twice: once with tracking, once with blocks, and compare. Assessment rubric: Cue Quality, Timing Accuracy, Tracking Hygiene.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 4. **Busking Jam (L13):** Create a sub page for a 90‑second track; perform live with tap‑tempo and rate masters. Assessment rubric: Busk Readiness, Rate Control, Look Variety.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 5. **Fault Drill (L15):** Instructor injects faults (bad address, blacked GM, wrong mode). Teams diagnose using the flowchart.
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 > ✅ Assessment idea: Practical check where each student powers up, proves patch, runs the scene, executes a safe stop, and shuts down.
 
 ---
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ## ✅ Summary
 

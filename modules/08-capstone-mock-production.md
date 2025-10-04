@@ -1,4 +1,4 @@
-# Capstone: Mock Production
+# Module 08: Capstone: Mock Production
 
 ## 🎯 Learning Objectives
 By the end of this module, students will be able to:
@@ -21,36 +21,44 @@ By the end of this module, students will be able to:
 
 ---
 
+
+
+## 📖 Key Terms (Quick Reference)
+* **Paper Tech**: TODO definition.
+* **Dry Tech**: TODO definition.
+* **Wet Tech**: TODO definition.
+* **Cue Sheet**: TODO definition.
+* **Run Sheet**: TODO definition.
 ## 📝 Lesson Content
 
-### 1. Setting the Project
+### Lesson 29: 1. Setting the Project
 - Students form a mock production team.
 - Roles assigned (SM, ASM, LX, SD, Deck Crew, FOH liaison).
 - Source material: a short scene, one-act, or devised piece.
 
-### 2. Pre-Production
+### Lesson 30: 2. Pre-Production
 - Read-through & concept discussion.  
 - Paperwork prep: contact sheet, schedule, risk assessment.  
 - Scenic layout, prop list, costume needs.  
 
-### 3. Technical Planning
+### Lesson 31: 3. Technical Planning
 - Lighting plot + hookup.  
 - Sound input list + patch.  
 - Cue list drafted.  
 - Run sheet drafted.  
 
-### 4. Rehearsal Process
+### Lesson 32: 4. Rehearsal Process
 - **Paper Tech**: Cueing discussion on paper.  
 - **Dry Tech**: Crew + operators only.  
 - **Wet Tech**: Add performers.  
 - **Dress Rehearsal**: Full run with costumes/props.  
 
-### 5. Performance
+### Lesson 33: 5. Performance
 - Operate show “for real.”  
 - Stage Manager calls cues.  
 - Crew executes shifts, LX/SD execute cues.  
 
-### 6. Reflection
+### Lesson 34: 6. Reflection
 - Post-show debrief: What worked? What needs growth?  
 - Written reflection (individual + team).  
 
@@ -58,12 +66,30 @@ By the end of this module, students will be able to:
 
 ## 🎬 Activities / Exercises
 - Draft a **cue sheet** from a sample scene.  
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - Build a **run sheet** for deck crew.  
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - Practice a **dry tech rehearsal** (no performers).  
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - Execute a **mock performance run** with full crew.  
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - Complete a **post-show report** (using appendix template).  
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ---
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ## ✅ Summary
 This capstone simulates the pressures, teamwork, and joy of putting on a production. Students gain hands-on experience in collaboration, paperwork, technical rehearsal, and live operation—tying together all prior modules in a culminating project.

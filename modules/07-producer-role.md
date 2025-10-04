@@ -1,4 +1,4 @@
-# The Role of the Producer
+# Module 07: The Role of the Producer
 
 ## 🎯 Learning Objectives
 By the end of this module, students will be able to:
@@ -21,27 +21,35 @@ By the end of this module, students will be able to:
 
 ---
 
+
+
+## 📖 Key Terms (Quick Reference)
+* **Producer**: TODO definition.
+* **Director**: TODO definition.
+* **Stage Manager**: TODO definition.
+* **Budgeting**: TODO definition.
+* **Rights & Royalties**: TODO definition.
 ## 📝 Lesson Content
 
-### 1. The Producer’s Core Functions
+### Lesson 27: 1. The Producer’s Core Functions
 - **Financial Management**: Creating and managing budgets, tracking expenses, and securing sponsorships or grants.  
 - **Contracting**: Negotiating with licensors (e.g., MTI, Concord Theatricals), designers, and staff.  
 - **Resource Allocation**: Approving major expenditures (sets, costumes, equipment).  
 
-### 2. Production Lifecycle and Producer Involvement
+### Lesson 28: 2. Production Lifecycle and Producer Involvement
 - **Pre-Production**: Selects show, secures rights, sets calendar, hires director/designers.  
 - **Rehearsal Period**: Monitors progress, attends key rehearsals, ensures needs are met.  
 - **Tech & Dress**: Confirms production is ready, may help coordinate ticketing/FOH.  
 - **Performance Run**: Oversees finances, box office, public relations, and audience experience.  
 - **Post-Show**: Settles accounts, prepares final reports, and manages strike logistics.  
 
-### 3. Collaboration with Other Roles
+### Lesson 29: 3. Collaboration with Other Roles
 - **Director**: Aligns on creative goals but avoids micromanaging artistry.  
 - **Stage Manager**: Relies on reports for updates and issues; ensures SM has resources.  
 - **Designers**: Reviews budgets and feasibility, supports procurement.  
 - **Board/Administration**: Reports progress, handles governance responsibilities.  
 
-### 4. Producer in Educational/Community Theatre
+### Lesson 30: 4. Producer in Educational/Community Theatre
 - Often a teacher, parent, or volunteer.  
 - May combine roles (producer/director/SM overlap).  
 - Focused on fundraising, ticketing, and engaging community support.  
@@ -50,11 +58,26 @@ By the end of this module, students will be able to:
 
 ## 🎬 Activities / Exercises
 - **Budget Drafting Exercise**: Students are given a script and must create a sample budget (royalties, sets, costumes, marketing).  
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - **Role Comparison Chart**: Fill in a table distinguishing duties of producer vs. director vs. stage manager.  
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - **Case Study**: Review a sample rehearsal report and identify producer follow-ups.  
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 - **Fundraising Pitch**: Students draft a short sponsor pitch for a local business.  
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ---
+   **Task:** As described above.
+   **Deliverable:** Submit as instructed (PDF, chart, or report).
+   **Rubric:** Accuracy (40), Clarity (30), Professionalism (30).
 
 ## ✅ Summary
 - The producer is responsible for the **business, legal, and logistical backbone** of a production.  
